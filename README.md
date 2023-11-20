@@ -26,7 +26,7 @@ Explore the interactive Tableau dashboard to gain insights into the dynamics of 
 - **Interactive Dashboard:**
   - [Link to Tableau Dashboard](https://public.tableau.com/app/profile/houcine.zakaria.hadj.said/viz/TopProductsofTechCompanies/Tableaudebord1)
 
-![pic](https://github.com/houcine6/Walmart-EDA-Interactive-Dashboard/blob/main/Tableau_Dashboard.PNG)
+![Tableau Dashboard Preview](https://github.com/houcine6/Tech_Company_Product_Analysis/blob/main/Tableau_Dashboard.PNG)
 
 ### Dashboard Details
 
